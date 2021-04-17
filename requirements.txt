@@ -3,5 +3,6 @@ gunicorn
 requests
 wikipedia
 line-bot-sdk
+Cython 
 pandas==0.20.3
 googletrans
